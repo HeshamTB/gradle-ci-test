@@ -25,7 +25,8 @@ public class Multithread {
                 e.printStackTrace();
             }
         }
-
+        syntax error
         //update
+        //branch1
     }
 }
